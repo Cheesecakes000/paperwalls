@@ -1,15 +1,13 @@
 # cheese's paperwalls
 - these are a collection of wallpapers i've collected over my laptop's lifespan. Do feel free to (ethically) steal!
 
-               - *Note: all of these images were taken (stolen) online + most were edited/modified in some way. 
-               If any of these images are your work OR you know of the author, please do mention it so I can take it down/give proper credits.
+- *Note: all of these images were taken (stolen) online + most were edited/modified in some way.*
+*If any of these images are your work OR you know of the author, please do mention it so I can take it down/give proper credits.*
+- *Extra Note: Avoid scrolling through the `README.md` below if your PC's specs is not known for performance.*
+*Your laptop will heat up, trust me ;)*
+*Please browse through the `main-walls/` directory and inspect the files individually instead, thank you <3*
 
-               - *Extra Note: Avoid scrolling through the `README.md` below if your PC's specs is not known for performance.
-               Your laptop will heat up, trust me ;) 
-
-               Please browse through the `main-walls/` directory and inspect the files individually instead, thank you <3*
- 
-               ## Preview
+## Preview
 
 | Column 1 | Column 2 | Column 3 | Column 1 |
 |----------|----------|----------|----------|
