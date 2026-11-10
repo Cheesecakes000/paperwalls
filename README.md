@@ -1,8 +1,14 @@
 # cheese's paperwalls
 - these are a collection of wallpapers i've collected over my laptop's lifespan. Do feel free to (ethically) steal!
-- *Note: all of these images were taken (stolen) online + most were edited/modified in some way. If any of these images are your work OR you know of the author, please do mention it so I can take it down/give proper credits. Thank you <3*
 
-## Preview
+               - *Note: all of these images were taken (stolen) online + most were edited/modified in some way. 
+               If any of these images are your work OR you know of the author, please do mention it so I can take it down/give proper credits.
+
+               - *Extra Note: Avoid scrolling through the `README.md` below if your PC's specs is not known for performance.
+               Your laptop will heat up, trust me ;) 
+
+               Please browse through the `main-walls/` directory and inspect the files individually instead, thank you <3* 
+               ## Preview
 
 | Column 1 | Column 2 | Column 3 | Column 1 |
 |----------|----------|----------|----------|
@@ -22,9 +28,9 @@
 | <img src="./main-walls/girl_stair_pipes.jpg" width="400" /> | <img src="./main-walls/kurisutina.jpg" width="400" /> | <img src="./main-walls/37.jpg" width="400" /> | <img src="./main-walls/mountains.png" width="400" /> | 
 | <img src="./main-walls/nikaido.jpeg" width="400" /> | <img src="./main-walls/bocchi_hehe.png" width="400" /> | <img src="./main-walls/warrior-horse.png" width="400" /> | <img src="./main-walls/rose_pine_cogecha.png" width="400" /> | 
 | <img src="./main-walls/street_kyoto.png" width="400" /> | <img src="./main-walls/ibuki_satsuki_1.png" width="400" /> | <img src="./main-walls/fall-leaves.png" width="400" /> | <img src="./main-walls/cogecha_3.webp" width="400" /> | 
-| <img src="./main-walls/Kita.png" width="400" /> | <img src="./main-walls/catppuccin_flowers_1.jpg" width="400" /> | <img src="./main-walls/bocchi_dino.jpg" width="400" /> | <img src="./main-walls/group-guns-in-car.png" width="400" /> | 
-| <img src="./main-walls/maki.png" width="400" /> | <img src="./main-walls/satellites_2.png" width="400" /> | <img src="./main-walls/venice-market.png" width="400" /> | <img src="./main-walls/yorushika_1.jpg" width="400" /> | 
-| <img src="./main-walls/catppuccin-sailormoon.png" width="400" /> | <img src="./main-walls/girl_smoke.png" width="400" /> | <img src="./main-walls/driving.jpg" width="400" /> | <img src="./main-walls/cairn-2.png" width="400" /> | 
-| <img src="./main-walls/catppuccin-macch-base.png" width="400" /> | <img src="./main-walls/valkyrie-rampart.jpeg" width="400" /> | <img src="./main-walls/uwuntu.png" width="400" /> | <img src="./main-walls/bocchi_swing.avif" width="400" /> | 
-| <img src="./main-walls/frieren_2.png" width="400" /> | <img src="./main-walls/dark_nikaido.png" width="400" /> | <img src="./main-walls/rose-pine-sword.jpg" width="400" /> | <img src="./main-walls/cairn-1.png" width="400" /> | 
-| <img src="./main-walls/umbrella-girl.png" width="400" /> | <img src="./main-walls/hyprland_pole.jpg" width="400" /> | <img src="./main-walls/vending-machine.png" width="400" /> | <img src="./main-walls/maki_comp.jpeg" width="400" /> | 
+| <img src="./main-walls/pretty-skies.png" width="400" /> | <img src="./main-walls/Kita.png" width="400" /> | <img src="./main-walls/catppuccin_flowers_1.jpg" width="400" /> | <img src="./main-walls/bocchi_dino.jpg" width="400" /> | 
+| <img src="./main-walls/group-guns-in-car.png" width="400" /> | <img src="./main-walls/maki.png" width="400" /> | <img src="./main-walls/satellites_2.png" width="400" /> | <img src="./main-walls/venice-market.png" width="400" /> | 
+| <img src="./main-walls/yorushika_1.jpg" width="400" /> | <img src="./main-walls/catppuccin-sailormoon.png" width="400" /> | <img src="./main-walls/beach_2.png" width="400" /> | <img src="./main-walls/girl_smoke.png" width="400" /> | 
+| <img src="./main-walls/driving.jpg" width="400" /> | <img src="./main-walls/cairn-2.png" width="400" /> | <img src="./main-walls/catppuccin-macch-base.png" width="400" /> | <img src="./main-walls/valkyrie-rampart.jpeg" width="400" /> | 
+| <img src="./main-walls/uwuntu.png" width="400" /> | <img src="./main-walls/bocchi_swing.avif" width="400" /> | <img src="./main-walls/frieren_2.png" width="400" /> | <img src="./main-walls/dark_nikaido.png" width="400" /> | 
+| <img src="./main-walls/rose-pine-sword.jpg" width="400" /> | <img src="./main-walls/cairn-1.png" width="400" /> | <img src="./main-walls/umbrella-girl.png" width="400" /> | <img src="./main-walls/hyprland_pole.jpg" width="400" /> | 
