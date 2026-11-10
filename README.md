@@ -7,7 +7,8 @@
                - *Extra Note: Avoid scrolling through the `README.md` below if your PC's specs is not known for performance.
                Your laptop will heat up, trust me ;) 
 
-               Please browse through the `main-walls/` directory and inspect the files individually instead, thank you <3* 
+               Please browse through the `main-walls/` directory and inspect the files individually instead, thank you <3*
+ 
                ## Preview
 
 | Column 1 | Column 2 | Column 3 | Column 1 |
